@@ -1,0 +1,1 @@
+https://github.com/QMCoin/QMCart/wiki/Installation
